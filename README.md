@@ -17,3 +17,4 @@ A repository of Resources to use to build tools
 ## Other Resources:
 - [Getting Started with Heroku](https://devcenter.heroku.com/start) Learn how to deploy your app to the web with heroku
 - [Hackathon Starter Resources] (https://github.com/sahat/hackathon-starter)
+- [Chicago Zoning map 2.0](https://gisapps.cityofchicago.org/ZoningMapWeb/?liab=1&config=zoning)
